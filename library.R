@@ -1,0 +1,5 @@
+library(ggplot2)
+library(GGally)
+library(stats)
+library(plotly)
+library(factoextra)
